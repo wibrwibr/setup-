@@ -22,19 +22,11 @@ echo "      tools name : basic pkg install
 echo "      author : Abir
 "
 echo "==================================="
-
-
-pkg update
-pkg upgrade
-pkg install python
-pkg install python2
-pkg install python3
 pkg install python-pip
 pkg install wget
 pkg install fish -y
 pkg install ruby
 pkg install crunch
-pkg install git
 pkg install dnsutils -y
 pkg install php
 pkg install per

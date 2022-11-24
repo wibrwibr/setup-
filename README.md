@@ -11,7 +11,8 @@ pkg install python3
 
 pkg install git
 
-Pkg all install
+
+* Pkg all install
 
 Then
 

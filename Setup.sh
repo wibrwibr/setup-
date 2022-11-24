@@ -48,6 +48,7 @@ pkg install wcalc
 pkg install openssl
 pkg install openssl-tool
 pkg install bmon -y
+pkg install sl
 pkg install unrar
 pkg install toilet
 pkg install proot -y
